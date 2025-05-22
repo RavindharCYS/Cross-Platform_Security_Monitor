@@ -99,6 +99,7 @@ The tool provides a real-time dashboard with the following sections:
 - **Recent File Events**: Latest file system activities in monitored locations
 
 ![Dashboard Example](https://github.com/RavindharCYS/Cross-Platform_Security_Monitor/blob/main/Screenshot%201.png)
+![Dashboard Example](https://github.com/RavindharCYS/Cross-Platform_Security_Monitor/blob/main/Screenshot%202.png)
 
 ## 📝 Log Files
 
