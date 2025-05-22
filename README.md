@@ -148,16 +148,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📸 Screenshots
-
-### Windows Interface
-![Windows Interface](https://via.placeholder.com/800x600/0078d4/ffffff?text=Windows+Interface)
-
-### macOS Interface
-![macOS Interface](https://via.placeholder.com/800x600/000000/ffffff?text=macOS+Interface)
-
-### Linux Interface
-![Linux Interface](https://via.placeholder.com/800x600/ff6900/ffffff?text=Linux+Interface)
 
 ---
 
