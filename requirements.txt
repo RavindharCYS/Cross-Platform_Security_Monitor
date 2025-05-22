@@ -1,0 +1,16 @@
+# Core Dependencies for Monitoring Functionality
+psutil>=5.9.0      # Used for process monitoring, CPU/memory usage, and network connections.
+watchdog>=2.1.9    # Essential for real-time file system event monitoring.
+
+# Dependencies for Enhanced User Interface (Dashboard)
+colorama>=0.4.5    # Enables cross-platform colored terminal output for a better UI.
+tabulate>=0.8.10   # Used for pretty-printing data in tabular format in the console dashboard.
+
+# Development and Distribution Tools (Optional, but good practice for project management)
+# pytest>=7.0.0    # Uncomment if you add unit tests to your project.
+# setuptools>=65.0.0 # Standard library for packaging Python projects.
+# wheel>=0.37.0    # For building wheel distributions.
+
+# No specific platform-dependent libraries are listed here, as the code
+# primarily uses standard Python libraries and subprocess calls for
+# platform-specific tasks, which are already built-in.
