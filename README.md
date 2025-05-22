@@ -98,7 +98,7 @@ The tool provides a real-time dashboard with the following sections:
 - **Suspicious Processes**: Processes that match known suspicious patterns
 - **Recent File Events**: Latest file system activities in monitored locations
 
-![Dashboard Example](https://via.placeholder.com/800x600/1a1a1a/00ff00?text=Real-Time+Security+Dashboard)
+![Dashboard Example](https://github.com/RavindharCYS/Cross-Platform_Security_Monitor/blob/main/Screenshot%201.png)
 
 ## 📝 Log Files
 
