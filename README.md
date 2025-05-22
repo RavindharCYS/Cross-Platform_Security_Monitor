@@ -54,8 +54,8 @@ The tool will adapt to missing packages by using limited functionality:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/security-monitor.git
-   cd security-monitor
+   git clone https://github.com/RavindharCYS/Cross-Platform_Security_Monitor.git
+   cd Cross-Platform_Security_Monitor
    ```
 
 2. **Install the required dependencies:**
